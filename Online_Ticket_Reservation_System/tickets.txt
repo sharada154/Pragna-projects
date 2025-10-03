@@ -1,0 +1,4 @@
+Ticket ID: 1, Name: Alice Johnson, Age: 22, Event: Movie Night, Price: $100
+Ticket ID: 2, Name: Bob Smith, Age: 30, Event: Concert, Price: $200
+Ticket ID: 1, Name: Harry, Age: 20, Event: Movie Night, Price: $100
+Ticket ID: 2, Name: Merry, Age: 30, Event: Theater Play, Price: $150
